@@ -1,0 +1,7 @@
+body {
+	background: #000000;
+	color: #00ff00;
+}
+#cnvs {
+	border: 1px dashed red;
+}
